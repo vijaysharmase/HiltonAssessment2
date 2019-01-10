@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox component Compare snapshots 1`] = `
+<div
+  className="new-checkbox sc-bdVaJa jBKccC"
+>
+  <input
+    checked={true}
+    className="sc-htpNat fXAzKf"
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <div
+    checked={true}
+    className="sc-bxivhb iHZuqy"
+  >
+    <svg
+      className="sc-bwzfXH ikwlIv"
+      viewBox="0 0 24 24"
+    >
+      <polyline
+        points="20 6 9 17 4 12"
+      />
+    </svg>
+  </div>
+</div>
+`;

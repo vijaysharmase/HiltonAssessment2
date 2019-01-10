@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component Compare snapshots 1`] = `
+<input
+  className="sc-bdVaJa eCboiN"
+  onClick={[Function]}
+  type="button"
+  value="Submit"
+/>
+`;

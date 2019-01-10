@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox component Compare snapshots 1`] = `
+<select
+  checked={true}
+  className="new-checkbox sc-bdVaJa eUnrpt"
+  disabled={false}
+  onChange={[Function]}
+  value="2"
+>
+  <option
+    value="1"
+  >
+    1
+  </option>
+  <option
+    value="2"
+  >
+    2
+  </option>
+</select>
+`;

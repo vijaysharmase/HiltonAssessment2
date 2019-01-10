@@ -1,0 +1,41 @@
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.room-selection {
+	width: 160px;
+	height: 160px;
+	border: 2px solid #e7e7e7;
+	border-radius: 5px;
+}
+
+.room-selection .panel-heading {
+	padding: 5px;
+	height: 40px;
+	background-color: #e7e7e7;
+	color: #000000;
+	border-radius: 4px 4px 0px 0px;
+}
+
+.room-selection .panel-heading label {
+	margin: 0;
+	padding: 0;
+}
+
+.room-selection .panel-body {
+	padding: 5px;
+	color: #000000;
+	border-radius: 0px 0px 4px 4px;
+}
+
+.room-selection.disabled,
+.room-selection.disabled .panel-heading,
+.room-selection.disabled .panel-body {
+	background-color: #dbdbe3 !important;
+}
+
+.room-selection.disabled {
+	border: 2px solid #c1c1c1 !important;
+}
