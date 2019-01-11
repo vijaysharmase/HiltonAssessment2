@@ -20,7 +20,8 @@
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js 3eb7373ded2419ff0ead3b50b85bbc6d": 6,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js 97fe0480b3a076e223f605531470f4b0": 6,
       "external \"styled-components\"": 2,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js 200401129d4b013e141bfaa52616873d": 3
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js 200401129d4b013e141bfaa52616873d": 3,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js 091fc12f9024d42e345f94fe554b9fb7": 3
     },
     "usedIds": {
       "0": 0,
@@ -71,14 +72,30 @@
       "static\\A6YNoLmaGR0PWycs5UTPh\\pages\\index.js": 5,
       "static\\A6YNoLmaGR0PWycs5UTPh\\pages\\_app.js": 6,
       "static\\A6YNoLmaGR0PWycs5UTPh\\pages\\_error.js": 7,
-      "static\\A6YNoLmaGR0PWycs5UTPh\\pages\\_document.js": 8
+      "static\\A6YNoLmaGR0PWycs5UTPh\\pages\\_document.js": 8,
+      "static\\veZAgVfmKLOTnPR8l0YaW\\pages\\index.js": 0,
+      "static\\veZAgVfmKLOTnPR8l0YaW\\pages\\_app.js": 1,
+      "static\\veZAgVfmKLOTnPR8l0YaW\\pages\\_error.js": 2,
+      "static\\veZAgVfmKLOTnPR8l0YaW\\pages\\_document.js": 3,
+      "static\\ALcFIKtB3thwmANlYryQR\\pages\\index.js": 4,
+      "static\\ALcFIKtB3thwmANlYryQR\\pages\\_app.js": 5,
+      "static\\ALcFIKtB3thwmANlYryQR\\pages\\_error.js": 6,
+      "static\\ALcFIKtB3thwmANlYryQR\\pages\\_document.js": 7,
+      "static\\Mq9ioxveStxo1VZoKl6sv\\pages\\index.js": 0,
+      "static\\Mq9ioxveStxo1VZoKl6sv\\pages\\_app.js": 1,
+      "static\\Mq9ioxveStxo1VZoKl6sv\\pages\\_error.js": 2,
+      "static\\Mq9ioxveStxo1VZoKl6sv\\pages\\_document.js": 3,
+      "static\\VzE9OAvudiMFkq8yQk7Mc\\pages\\index.js": 4,
+      "static\\VzE9OAvudiMFkq8yQk7Mc\\pages\\_app.js": 5,
+      "static\\VzE9OAvudiMFkq8yQk7Mc\\pages\\_error.js": 6,
+      "static\\VzE9OAvudiMFkq8yQk7Mc\\pages\\_document.js": 7
     },
     "bySource": {},
     "usedIds": [
+      4,
       5,
       6,
-      7,
-      8
+      7
     ]
   }
 }

@@ -3,7 +3,8 @@
 	"jest": {
 		"verbose": true,
 		"transformIgnorePatterns": [
-			"node_modules"
+			"<rootDir>/build/",
+			"<rootDir>/node_modules/"
 		]
 	},
 	"version": "1.0.0",
@@ -11,20 +12,23 @@
 		"dev": "next",
 		"build": "next build",
 		"start": "next start",
-		"test": "NODE_ENV=test jest"
+		"test": "jest"
 	},
 	"dependencies": {
 		"enzyme": "3.8.0",
 		"enzyme-adapter-react-16": "1.7.1",
-		"jest": "23.6.0",
-		"jest-matchers": "20.0.3",
-		"jest-mock": "23.2.0",
-		"next": "latest",
+		"next": "^7.0.2",
 		"react": "^16.0.0",
-		"react-addons-test-utils": "15.6.2",
 		"react-dom": "^16.0.0",
 		"react-test-renderer": "16.7.0",
 		"styled-components": "4.1.3"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.2.2",
+		"@babel/plugin-proposal-class-properties": "^7.2.3",
+		"@babel/preset-env": "^7.2.3",
+		"@babel/preset-react": "^7.0.0",
+		"jest": "23.6.0"
 	},
 	"license": "ISC",
 	"keywords": [],

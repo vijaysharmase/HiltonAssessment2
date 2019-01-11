@@ -47,7 +47,7 @@ class Rooms extends React.Component {
 		});
 		let message = "No rooms selected.";
 		if (selectedRooms.length > 0) {
-			message = selectedRooms.length + "{ rooms selected.";
+			message = selectedRooms.length + " rooms selected.";
 			selectedRooms.forEach((room, index) => {
 				message += "\n Room " + (index + 1) + ": Adluts: " + room.adult + ", Children: " + room.children;
 			});
